@@ -107,6 +107,22 @@ MonoBehaviour:
     m_Key: Scenario 4
     m_Metadata:
       m_Items: []
+  - m_Id: 395890182692864
+    m_Key: 000_Front_six house/UI/Canvas/Dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395901079494656
+    m_Key: 000_Front_six house/UI/Canvas/Dropdown 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 402858024738816
+    m_Key: 000_Front_six house/UI/Canvas/Language selector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 402874348969984
+    m_Key: 000_Front_six house/UI/Canvas/Language selector 1
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

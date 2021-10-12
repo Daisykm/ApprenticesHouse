@@ -125,6 +125,22 @@ MonoBehaviour:
     m_Localized: Scenario 4
     m_Metadata:
       m_Items: []
+  - m_Id: 395890182692864
+    m_Localized: Option A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395901079494656
+    m_Localized: Option B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 402858024738816
+    m_Localized: Option A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 402874348969984
+    m_Localized: Option B
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
     00000000:
