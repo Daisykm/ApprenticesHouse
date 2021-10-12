@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d064754514aa38b4c9c46af00c0e49c7, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 50008006656
+    m_Localized: INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424634851328
+    m_Localized: /Life-Cycle Analysis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839340036096
+    m_Localized: Scenario 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2311148904448
+    m_Localized: Scenario 1b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3382424477696
+    m_Localized: Scenario 1c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106954285056
+    m_Localized: Which will give least climate impact?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12529178091520
+    m_Localized: "(PLACEHOLDER TEXT) As the looming climate crisis is becoming\r                                  
+      directly apparent to most people, there is an increasing focus on how our buildings
+      affect nature. This raises the question of whether it is better to demolish\r                                          
+      the existing buildings and replace them with new low-energy buildings or gently
+      insulate the old buildings.\nOf course, they will have a higher energy consumption
+      for heating, which is increasingly covered by renewable energy, but\r                 
+      on the other hand they have already strained nature during construction perhaps\r                              
+      many years ago. Lifespan is therefore a very important parameter for assessing\r                            
+      the overall environmental impact. Restoration architects are used to researching\r                                                    
+      existing buildings to find out when they were built and what alterations they\r                                                    
+      have undergone in the period up to now. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329682309718016
+    m_Localized: Scenario 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330113790353408
+    m_Localized: 'Restored as listed and with 75 mm internal wall insulation. It
+      turns out that it has a substantial heat loss primarily due to the fact that
+      it is only re-insulated with 75 mm inside on exterior walls. On the other hand,
+      the thin post-insulation means that the proportions of the rooms are largely
+      maintained and only little precious living space is lost.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330879963865088
+    m_Localized: 50 years
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 331138513346560
+    m_Localized: 100 years
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 331381690703872
+    m_Localized: Lifetime of the entire building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332744935972864
+    m_Localized: Thatch roof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333310797914112
+    m_Localized: 75mm mineral wool insulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333593208791040
+    m_Localized: Single pane timber frames windows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358720973676544
+    m_Localized: SBI 50 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358983813931008
+    m_Localized: Existing instances 100 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359028562960384
+    m_Localized: 'Lifetime of the building elements based on '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359666797617152
+    m_Localized: Climate change kg CO2 eq/y/m2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362967073136640
+    m_Localized: Scenario 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363404824256512
+    m_Localized: Scenario 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363593211420672
+    m_Localized: Scenario 4
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a075312b2d010000a0b5feee2c0100

@@ -1,22 +1,22 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: "C:/Users/tallo/Documents/GitHub/L\xE6rlingenes Hus/L\xE6rlingenes
+    m_FilePath: "C:/Users/Daisy/Documents/GitHub/ApprenticesHouse/L\xE6rlingenes
       Huset/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637647073093157663
-    m_Hash: 4259747877
+      ticks: 637695489186752128
+    m_Hash: 545771412
   m_LockFileStatus:
-    m_FilePath: "C:/Users/tallo/Documents/GitHub/L\xE6rlingenes Hus/L\xE6rlingenes
+    m_FilePath: "C:/Users/Daisy/Documents/GitHub/ApprenticesHouse/L\xE6rlingenes
       Huset/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637647073093197555
-    m_Hash: 3187544543
+      ticks: 637695489186960667
+    m_Hash: 2622168688
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,7 +27,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.9
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.cinemachine@2.6.9"
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
@@ -82,15 +82,18 @@ m_PackageAssets:
         - 2.6.4
         - 2.6.5
         - 2.6.9
+        - 2.6.10
         - 2.7.1
         - 2.7.2
         - 2.7.3
         - 2.7.4
         - 2.7.5
+        - 2.7.8
         - 2.8.0-exp.1
         - 2.8.0-exp.2
         - 2.8.0-pre.1
         - 2.8.0
+        - 2.8.1
         compatible:
         - 2.5.0
         - 2.6.0-preview.2
@@ -107,16 +110,19 @@ m_PackageAssets:
         - 2.6.4
         - 2.6.5
         - 2.6.9
+        - 2.6.10
         - 2.7.1
         - 2.7.2
         - 2.7.3
         - 2.7.4
         - 2.7.5
+        - 2.7.8
         - 2.8.0-exp.1
         - 2.8.0-exp.2
         - 2.8.0-pre.1
         - 2.8.0
-        verified: 2.6.9
+        - 2.8.1
+        verified: 2.6.10
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -167,7 +173,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.7.1
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.collab-proxy@1.7.1"
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
@@ -209,6 +215,10 @@ m_PackageAssets:
         - 1.7.1
         - 1.8.0
         - 1.9.0
+        - 1.10.2
+        - 1.11.2
+        - 1.12.5
+        - 1.13.5
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -223,6 +233,10 @@ m_PackageAssets:
         - 1.7.1
         - 1.8.0
         - 1.9.0
+        - 1.10.2
+        - 1.11.2
+        - 1.12.5
+        - 1.13.5
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -279,7 +293,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.ide.rider@2.0.7"
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
@@ -387,7 +401,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.11
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11"
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
@@ -475,7 +489,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.ide.vscode@1.2.3"
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
@@ -504,6 +518,7 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.2
         - 1.2.3
+        - 1.2.4
         compatible:
         - 1.0.2
         - 1.0.3
@@ -516,7 +531,8 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.2
         - 1.2.3
-        verified: 1.2.3
+        - 1.2.4
+        verified: 1.2.4
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -540,12 +556,140 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.localization@1.0.3
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.3
+      source: 1
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
+        Huset\\Library\\PackageCache\\com.unity.localization@1.0.3"
+      assetPath: Packages/com.unity.localization
+      name: com.unity.localization
+      displayName: Localization
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Use the Localization package to easily configure localization
+        settings for your application.\n\nAdd support for multiple languages and
+        regional variants, including:\n\n\u2022 String localization: Set different
+        strings to display based on locale. Use the Smart Strings feature to add
+        logic to automatically replace specific strings, such as placeholders and
+        plurals.\n\u2022 Asset localization: Use a different asset (such as a texture,
+        model, or audio file) based on a locale.\n\u2022 Pseudo-localization: Test
+        how your project will adapt to different localizations at an early stage,
+        before adding your translations.\n\u2022 Import and export localization data
+        to XLIFF, CSV and Google Sheets.\n\nAdd localization to your projects using
+        the Localization package to help make your applications more accessible to
+        a wider audience."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview
+        - 0.5.0-preview
+        - 0.5.1-preview
+        - 0.6.0-preview
+        - 0.6.1-preview
+        - 0.7.1-preview
+        - 0.8.0-preview
+        - 0.8.1-preview
+        - 0.9.0-preview
+        - 0.10.0-preview
+        - 0.11.0-preview
+        - 0.11.1-preview
+        - 1.0.0-pre.8
+        - 1.0.0-pre.9
+        - 1.0.0-pre.10
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.3
+        compatible:
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.2.3-preview
+        - 0.3.1-preview
+        - 0.3.2-preview
+        - 0.4.0-preview
+        - 0.5.0-preview
+        - 0.5.1-preview
+        - 0.6.0-preview
+        - 0.6.1-preview
+        - 0.7.1-preview
+        - 0.8.0-preview
+        - 0.8.1-preview
+        - 0.9.0-preview
+        - 0.10.0-preview
+        - 0.11.0-preview
+        - 0.11.1-preview
+        - 1.0.0-pre.8
+        - 1.0.0-pre.9
+        - 1.0.0-pre.10
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.3
+        verified: 
+      dependencies:
+      - name: com.unity.addressables
+        version: 1.19.4
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      resolvedDependencies:
+      - name: com.unity.addressables
+        version: 1.19.4
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.19.2
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.modules.imageconversion
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequestassetbundle
+        version: 1.0.0
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      keywords:
+      - localization
+      - locale
+      - language
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637686138910000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.localization.git
+        revision: 38d891b4ab168a4d504587f7041ffadf7d39d81c
+        path: 
     - packageId: com.unity.probuilder@4.5.2
       testable: 0
       isDirectDependency: 1
       version: 4.5.2
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.probuilder@4.5.2"
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
@@ -686,7 +830,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 10.5.1
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.render-pipelines.universal@10.5.1"
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
@@ -744,6 +888,7 @@ m_PackageAssets:
         - 10.5.0
         - 10.5.1
         - 10.6.0
+        - 10.7.0
         compatible:
         - 10.5.1
         - 10.6.0
@@ -802,7 +947,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.27
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.test-framework@1.1.27"
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
@@ -848,9 +993,11 @@ m_PackageAssets:
         - 1.1.24
         - 1.1.26
         - 1.1.27
+        - 1.1.29
         compatible:
         - 1.1.27
-        verified: 1.1.27
+        - 1.1.29
+        verified: 1.1.29
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -893,7 +1040,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6"
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
@@ -1053,7 +1200,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.timeline@1.4.8"
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
@@ -1206,7 +1353,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.ugui@1.0.0"
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
@@ -1270,7 +1417,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.ai@1.0.0"
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
@@ -1319,7 +1466,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.androidjni@1.0.0"
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
@@ -1368,7 +1515,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.animation@1.0.0"
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
@@ -1417,7 +1564,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.assetbundle@1.0.0"
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
@@ -1466,7 +1613,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.audio@1.0.0"
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
@@ -1515,7 +1662,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.cloth@1.0.0"
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
@@ -1568,7 +1715,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.director@1.0.0"
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
@@ -1625,7 +1772,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.imageconversion@1.0.0"
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
@@ -1675,7 +1822,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.imgui@1.0.0"
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
@@ -1724,7 +1871,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.jsonserialize@1.0.0"
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
@@ -1773,7 +1920,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.particlesystem@1.0.0"
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
@@ -1822,7 +1969,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.physics@1.0.0"
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
@@ -1871,7 +2018,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.physics2d@1.0.0"
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
@@ -1920,7 +2067,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.screencapture@1.0.0"
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
@@ -1973,7 +2120,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.terrain@1.0.0"
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
@@ -2022,7 +2169,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.terrainphysics@1.0.0"
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
@@ -2079,7 +2226,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.tilemap@1.0.0"
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
@@ -2132,7 +2279,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.ui@1.0.0"
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
@@ -2181,7 +2328,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.uielements@1.0.0"
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
@@ -2246,7 +2393,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.umbra@1.0.0"
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
@@ -2295,7 +2442,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unityanalytics@1.0.0"
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
@@ -2352,7 +2499,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unitywebrequest@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
@@ -2401,7 +2548,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
@@ -2458,7 +2605,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
@@ -2515,7 +2662,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
@@ -2572,7 +2719,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww@1.0.0"
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
@@ -2645,7 +2792,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.vehicles@1.0.0"
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
@@ -2698,7 +2845,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.video@1.0.0"
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
@@ -2759,7 +2906,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.vr@1.0.0"
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
@@ -2822,7 +2969,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.wind@1.0.0"
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
@@ -2871,7 +3018,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.xr@1.0.0"
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
@@ -2932,7 +3079,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.subsystems@1.0.0"
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
@@ -2985,7 +3132,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.modules.uielementsnative@1.0.0"
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
@@ -3045,7 +3192,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
@@ -3107,7 +3254,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.mathematics@1.1.0"
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
@@ -3138,6 +3285,7 @@ m_PackageAssets:
         - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
+        - 1.2.4
         compatible:
         - 0.0.12-preview.2
         - 0.0.12-preview.5
@@ -3153,7 +3301,8 @@ m_PackageAssets:
         - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
-        verified: 1.2.1
+        - 1.2.4
+        verified: 1.2.4
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3183,7 +3332,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.5.1
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.render-pipelines.core@10.5.1"
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
@@ -3297,6 +3446,7 @@ m_PackageAssets:
         - 10.5.0
         - 10.5.1
         - 10.6.0
+        - 10.7.0
         compatible:
         - 10.5.1
         - 10.6.0
@@ -3337,7 +3487,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.5.1
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.shadergraph@10.5.1"
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
@@ -3448,6 +3598,7 @@ m_PackageAssets:
         - 10.5.0
         - 10.5.1
         - 10.6.0
+        - 10.7.0
         compatible:
         - 10.5.1
         - 10.6.0
@@ -3494,7 +3645,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.3
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.settings-manager@1.0.3"
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
@@ -3548,12 +3699,262 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
         revision: 473664ccba1496294b741cf169740a5d54b3d0b6
         path: 
+    - packageId: com.unity.addressables@1.19.4
+      testable: 0
+      isDirectDependency: 0
+      version: 1.19.4
+      source: 1
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
+        Huset\\Library\\PackageCache\\com.unity.addressables@1.19.4"
+      assetPath: Packages/com.unity.addressables
+      name: com.unity.addressables
+      displayName: Addressables
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'The Addressable Asset System allows the developer to ask for
+        an asset via its address. Once an asset (e.g. a prefab) is marked "addressable",
+        it generates an address which can be called from anywhere. Wherever the asset
+        resides (local or remote), the system will locate it and its dependencies,
+        then return it.
+
+
+        Use ''Window->Asset Management->Addressables''
+        to begin working with the system.
+
+
+        Addressables use asynchronous
+        loading to support loading from any location with any collection of dependencies.
+        Whether you have been using direct references, traditional asset bundles,
+        or Resource folders, addressables provide a simpler way to make your game
+        more dynamic. Addressables simultaneously opens up the world of asset bundles
+        while managing all the complexity.
+
+
+        For usage samples, see github.com/Unity-Technologies/Addressables-Sample'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.8-preview
+        - 0.0.12-preview
+        - 0.0.15-preview
+        - 0.0.16-preview
+        - 0.0.18-preview
+        - 0.0.22-preview
+        - 0.0.26-preview
+        - 0.0.27-preview
+        - 0.1.2-preview
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.3.5-preview
+        - 0.4.6-preview
+        - 0.4.8-preview
+        - 0.5.2-preview
+        - 0.5.3-preview
+        - 0.6.6-preview
+        - 0.6.7-preview
+        - 0.6.8-preview
+        - 0.7.4-preview
+        - 0.7.5-preview
+        - 0.8.4-preview
+        - 0.8.6-preview
+        - 1.1.3-preview
+        - 1.1.4-preview
+        - 1.1.5
+        - 1.1.7
+        - 1.1.9
+        - 1.1.10
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.3.3
+        - 1.3.8
+        - 1.4.0
+        - 1.5.0
+        - 1.5.1
+        - 1.6.0
+        - 1.6.2
+        - 1.7.4
+        - 1.7.5
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.9.2
+        - 1.10.0
+        - 1.11.2
+        - 1.12.0
+        - 1.13.1
+        - 1.14.2
+        - 1.15.1
+        - 1.16.1
+        - 1.16.6
+        - 1.16.7
+        - 1.16.8
+        - 1.16.10
+        - 1.16.12
+        - 1.16.13
+        - 1.16.15
+        - 1.16.16
+        - 1.16.19
+        - 1.17.0-preview
+        - 1.17.2-preview
+        - 1.17.4-preview
+        - 1.17.5-preview
+        - 1.17.6-preview
+        - 1.17.13
+        - 1.17.15
+        - 1.17.17
+        - 1.18.2
+        - 1.18.4
+        - 1.18.9
+        - 1.18.11
+        - 1.18.13
+        - 1.18.15
+        - 1.18.16
+        - 1.19.4
+        - 1.19.6
+        compatible:
+        - 0.0.8-preview
+        - 0.0.12-preview
+        - 0.0.15-preview
+        - 0.0.16-preview
+        - 0.0.18-preview
+        - 0.0.22-preview
+        - 0.0.26-preview
+        - 0.0.27-preview
+        - 0.1.2-preview
+        - 0.2.1-preview
+        - 0.2.2-preview
+        - 0.3.5-preview
+        - 0.4.6-preview
+        - 0.4.8-preview
+        - 0.5.2-preview
+        - 0.5.3-preview
+        - 0.6.6-preview
+        - 0.6.7-preview
+        - 0.6.8-preview
+        - 0.7.4-preview
+        - 0.7.5-preview
+        - 0.8.4-preview
+        - 0.8.6-preview
+        - 1.1.3-preview
+        - 1.1.4-preview
+        - 1.1.5
+        - 1.1.7
+        - 1.1.9
+        - 1.1.10
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.3.3
+        - 1.3.8
+        - 1.4.0
+        - 1.5.0
+        - 1.5.1
+        - 1.6.0
+        - 1.6.2
+        - 1.7.4
+        - 1.7.5
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.9.2
+        - 1.10.0
+        - 1.11.2
+        - 1.12.0
+        - 1.13.1
+        - 1.14.2
+        - 1.15.1
+        - 1.16.1
+        - 1.16.6
+        - 1.16.7
+        - 1.16.8
+        - 1.16.10
+        - 1.16.12
+        - 1.16.13
+        - 1.16.15
+        - 1.16.16
+        - 1.16.19
+        - 1.17.0-preview
+        - 1.17.2-preview
+        - 1.17.4-preview
+        - 1.17.5-preview
+        - 1.17.6-preview
+        - 1.17.13
+        - 1.17.15
+        - 1.17.17
+        - 1.18.2
+        - 1.18.4
+        - 1.18.9
+        - 1.18.11
+        - 1.18.13
+        - 1.18.15
+        - 1.18.16
+        - 1.19.4
+        - 1.19.6
+        verified: 1.16.19
+      dependencies:
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.19.2
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.modules.imageconversion
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequestassetbundle
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.scriptablebuildpipeline
+        version: 1.19.2
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.modules.imageconversion
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequestassetbundle
+        version: 1.0.0
+      keywords:
+      - asset
+      - resources
+      - bundle
+      - bundles
+      - assetbundles
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637661775170000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+        revision: 71d56753f5c75e03620e2e6539b9b74c0493a105
+        path: 
     - packageId: com.unity.nuget.newtonsoft-json@2.0.0
       testable: 0
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0"
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
@@ -3628,7 +4029,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.3.2
       source: 1
-      resolvedPath: "C:\\Users\\tallo\\Documents\\GitHub\\L\xE6rlingenes Hus\\L\xE6rlingenes
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
         Huset\\Library\\PackageCache\\com.unity.searcher@4.3.2"
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
@@ -3700,8 +4101,152 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
         revision: 798bfb84c8f09f7788a3a88c3c16d72c50451530
         path: 
+    - packageId: com.unity.scriptablebuildpipeline@1.19.2
+      testable: 0
+      isDirectDependency: 0
+      version: 1.19.2
+      source: 1
+      resolvedPath: "C:\\Users\\Daisy\\Documents\\GitHub\\ApprenticesHouse\\L\xE6rlingenes
+        Huset\\Library\\PackageCache\\com.unity.scriptablebuildpipeline@1.19.2"
+      assetPath: Packages/com.unity.scriptablebuildpipeline
+      name: com.unity.scriptablebuildpipeline
+      displayName: Scriptable Build Pipeline
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Scriptable Build Pipeline moves the asset bundle build pipeline
+        to C#.  Use the pre-defined build flows, or create your own using the divided
+        up APIs.  This system improves build time, fixes incremental build, and provides
+        greater flexibility.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.5-preview
+        - 0.0.6-preview
+        - 0.0.8-preview
+        - 0.0.9-preview
+        - 0.0.10-preview
+        - 0.0.14-preview
+        - 0.0.15-preview
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 1.0.1-preview
+        - 1.1.0-preview
+        - 1.1.1-preview
+        - 1.2.1-preview
+        - 1.3.5-preview
+        - 1.4.1-preview
+        - 1.5.0-preview
+        - 1.5.1
+        - 1.5.2
+        - 1.5.4
+        - 1.5.6
+        - 1.5.10
+        - 1.6.3-preview
+        - 1.6.4-preview
+        - 1.6.5-preview
+        - 1.7.2
+        - 1.7.3
+        - 1.8.2
+        - 1.8.4
+        - 1.8.6
+        - 1.9.0
+        - 1.10.0
+        - 1.11.1
+        - 1.11.2
+        - 1.12.0
+        - 1.13.1
+        - 1.14.0
+        - 1.14.1
+        - 1.15.1
+        - 1.15.2
+        - 1.16.1
+        - 1.17.0
+        - 1.18.0
+        - 1.19.0
+        - 1.19.1
+        - 1.19.2
+        compatible:
+        - 0.0.5-preview
+        - 0.0.6-preview
+        - 0.0.8-preview
+        - 0.0.9-preview
+        - 0.0.10-preview
+        - 0.0.14-preview
+        - 0.0.15-preview
+        - 0.1.0-preview
+        - 0.2.0-preview
+        - 1.0.1-preview
+        - 1.1.0-preview
+        - 1.1.1-preview
+        - 1.2.1-preview
+        - 1.3.5-preview
+        - 1.4.1-preview
+        - 1.5.0-preview
+        - 1.5.1
+        - 1.5.2
+        - 1.5.4
+        - 1.5.6
+        - 1.5.10
+        - 1.6.3-preview
+        - 1.6.4-preview
+        - 1.6.5-preview
+        - 1.7.2
+        - 1.7.3
+        - 1.8.2
+        - 1.8.4
+        - 1.8.6
+        - 1.9.0
+        - 1.10.0
+        - 1.11.1
+        - 1.11.2
+        - 1.12.0
+        - 1.13.1
+        - 1.14.0
+        - 1.14.1
+        - 1.15.1
+        - 1.15.2
+        - 1.16.1
+        - 1.17.0
+        - 1.18.0
+        - 1.19.0
+        - 1.19.1
+        - 1.19.2
+        verified: 1.15.2
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - build
+      - bundle
+      - bundles
+      - assetbundles
+      - cache
+      - server
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637661775970000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+        revision: 5b4d3ed6277bc723c027df95bb74a0753abccc85
+        path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: "C:/Users/tallo/Documents/GitHub/L\xE6rlingenes Hus/L\xE6rlingenes
-  Huset/Packages"
+m_ProjectPath: "C:/Users/Daisy/Documents/GitHub/ApprenticesHouse/L\xE6rlingenes Huset/Packages"
 m_EditorVersion: 2020.3.16f1 (049d6eca3c44)

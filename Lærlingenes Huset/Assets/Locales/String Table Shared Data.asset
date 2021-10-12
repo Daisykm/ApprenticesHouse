@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: String Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: String Table
+  m_TableCollectionNameGuidString: d064754514aa38b4c9c46af00c0e49c7
+  m_Entries:
+  - m_Id: 50008006656
+    m_Key: INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424634851328
+    m_Key: Life-Cycle Analysis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839340036096
+    m_Key: scenario 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2311148904448
+    m_Key: scenario 1b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3382424477696
+    m_Key: scenario 1c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106954285056
+    m_Key: Which will give least climate impact?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12529178091520
+    m_Key: placeholder text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329682309718016
+    m_Key: Scenario 1 title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330113790353408
+    m_Key: S1 info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330879963865088
+    m_Key: 50 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331138513346560
+    m_Key: 100 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331381690703872
+    m_Key: Lifetime of building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332744935972864
+    m_Key: 'roof text '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333310797914112
+    m_Key: insulation text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333593208791040
+    m_Key: window text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358720973676544
+    m_Key: SBI 50 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358983813931008
+    m_Key: instances 100 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359028562960384
+    m_Key: lifetime of elements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359666797617152
+    m_Key: Climate change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362209468588032
+    m_Key: Sce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362967073136640
+    m_Key: Scenario2 text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363404824256512
+    m_Key: Scenario 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363593211420672
+    m_Key: Scenario 4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1633952758871

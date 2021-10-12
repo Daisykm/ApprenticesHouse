@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_da
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: da
+  m_SharedData: {fileID: 11400000, guid: d064754514aa38b4c9c46af00c0e49c7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 50008006656
+    m_Localized: INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424634851328
+    m_Localized: /Livscyklusanalyse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839340036096
+    m_Localized: Scenarie 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2311148904448
+    m_Localized: "\rScenarie 1b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3382424477696
+    m_Localized: "\rScenarie 1c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12106954285056
+    m_Localized: "\rHvilket vil give mindst klimap\xE5virkning?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12529178091520
+    m_Localized: "(PLACEHOLDER TEKST) Efterh\xE5nden som den truende klimakrise er
+      ved at blive direkte synlig for de fleste mennesker, er der et stigende fokus
+      p\xE5, hvordan vores bygninger p\xE5virker naturen. Dette rejser sp\xF8rgsm\xE5let
+      om, hvorvidt det er bedre at rive ned de eksisterende bygninger og udskift
+      dem med nye lavenergibygninger eller forsigtigt isolere de gamle bygninger.
+      Selvf\xF8lgelig vil de have et h\xF8jere energiforbrug  til opvarmning, som
+      i stigende grad d\xE6kkes af vedvarende energi, men p\xE5 den anden side har
+      de m\xE5ske allerede anstrengt naturen under byggeriet  mange \xE5r siden.
+      Levetid er derfor en meget vigtig parameter til vurdering den samlede milj\xF8p\xE5virkning.
+      Restaureringsarkitekter er vant til at unders\xF8ge eksisterende bygninger
+      for at finde ud af, hvorn\xE5r de blev bygget, og hvilke \xE6ndringer de foretog
+      har gennemg\xE5et i perioden indtil nu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329682309718016
+    m_Localized: Scenarie 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330113790353408
+    m_Localized: "Restaureret som angivet og med 75 mm indvendig v\xE6gisolering.
+      Det viser sig, at det har et betydeligt varmetab prim\xE6rt p\xE5 grund af
+      det faktum, at det kun er efterisoleret med 75 mm indvendigt p\xE5 yderv\xE6gge.
+      P\xE5 den anden side betyder den tynde efterisolering, at rummets proportioner
+      stort set opretholdes, og kun lidt v\xE6rdifuldt boligareal g\xE5r tabt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330879963865088
+    m_Localized: " 50 \xE5r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331138513346560
+    m_Localized: "100 \xE5r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 331381690703872
+    m_Localized: "\rLevetid for hele bygningen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332744935972864
+    m_Localized: "\rStr\xE5tag"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333310797914112
+    m_Localized: "\r75 mm mineraluldsisolering"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333593208791040
+    m_Localized: "en enkelt glasrude \r vinduesramme af tr\xE6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358720973676544
+    m_Localized: "SBI 50 \xE5r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358983813931008
+    m_Localized: "Eksisterende tilf\xE6lde 100 \xE5r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359028562960384
+    m_Localized: "\rBygningselementernes levetid baseret p\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359666797617152
+    m_Localized: "\rKlima forandring kg CO2 eq/y/m2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362967073136640
+    m_Localized: "\rScenarie 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363404824256512
+    m_Localized: Scenarie 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363593211420672
+    m_Localized: Scenarie 4
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
