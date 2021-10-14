@@ -13,22 +13,19 @@ EditorBuildSettings:
     guid: 2b83d609945870940b090196add6293f
   - enabled: 1
     path: Assets/Scenes/002_S_01b.unity
-    guid: f70f3cbe67b722c45b5bf3422d0b9af3
+    guid: dc4a65004d06633449fa6fd58316f5d5
   - enabled: 1
     path: Assets/Scenes/003_S_01c.unity
-    guid: c99d82455600c1c47a288a46846a2306
+    guid: 1bf04146d0da3fd46b53591a964e71a7
   - enabled: 1
     path: Assets/Scenes/004_S_02.unity
-    guid: 9ca0448ab58eabb4f83eee4ad83b47fa
+    guid: 73f86803797191647ae2f2d2bd62770e
   - enabled: 1
     path: Assets/Scenes/005_S_03.unity
-    guid: 67df0c6d614c0ce4590eef06088b21a6
+    guid: 8a5334f45d329ff4495f1b9ef276bf85
   - enabled: 1
     path: Assets/Scenes/006_S_04.unity
-    guid: c6c5da44b83a89c4abfd4638da2698c1
-  - enabled: 1
-    path: Assets/Scenes/007_S_01_house.unity
-    guid: db915a2bf218cb846b33bb58db3e97cb
+    guid: b1db4262f41366c469d1aec89655f783
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: a956e3fa2cfa0c843af355cd962ee32f, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: d5827d20ea640d44eba8d3a290bb4b7f, type: 2}

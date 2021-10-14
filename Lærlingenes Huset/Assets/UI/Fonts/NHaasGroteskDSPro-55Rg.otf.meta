@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 6e19e2db05a16ce4caa7596b3a635e52
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neue Haas Grotesk Display Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 65345c8b39c20d44d853b473a3ebd395, type: 3}
+  - {fileID: 12800000, guid: d560c6e1c54c86043820691ed2085afa, type: 3}
+  - {fileID: 12800000, guid: db131d7be2cbd904a8660de69ff43344, type: 3}
+  - {fileID: 12800000, guid: dd92d62320678a940bbc52ff40554a4a, type: 3}
+  - {fileID: 12800000, guid: 6ea1a71307c64614dbac7b15994fc3c2, type: 3}
+  - {fileID: 12800000, guid: dad7e5dbf385626488e318554211cee7, type: 3}
+  - {fileID: 12800000, guid: d1e0706dbea92084a82fe32b0b4e62c9, type: 3}
+  - {fileID: 12800000, guid: c76f11c77973db84486e3a6617bcb9d3, type: 3}
+  - {fileID: 12800000, guid: 7be45ee5dd4bba34e907d40e73de5e34, type: 3}
+  - {fileID: 12800000, guid: b25d3e59efbb00b48ba498fabecc1944, type: 3}
+  - {fileID: 12800000, guid: 9569a2ca07f821a4dbd1c1c548a6a9cf, type: 3}
+  - {fileID: 12800000, guid: 890c0883d55f8934599a2ab41b571b14, type: 3}
+  - {fileID: 12800000, guid: 1cb01dcc93a9be04e859a96dd4c2f5e9, type: 3}
+  - {fileID: 12800000, guid: 52f07f4e4b9bed8458187d94f6a8e99a, type: 3}
+  - {fileID: 12800000, guid: c451e1fd5425262428b149b44748fa46, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

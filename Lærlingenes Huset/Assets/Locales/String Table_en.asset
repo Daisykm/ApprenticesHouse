@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 424634851328
-    m_Localized: /Life-Cycle Analysis
+    m_Localized: Life-Cycle Analysis
     m_Metadata:
       m_Items: []
   - m_Id: 1839340036096
@@ -40,21 +40,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12106954285056
-    m_Localized: Which will give least climate impact?
+    m_Localized: Which will give the least climate impact?
     m_Metadata:
       m_Items: []
   - m_Id: 12529178091520
-    m_Localized: "(PLACEHOLDER TEXT) As the looming climate crisis is becoming\r                                  
-      directly apparent to most people, there is an increasing focus on how our buildings
-      affect nature. This raises the question of whether it is better to demolish\r                                          
+    m_Localized: (PLACEHOLDER TEXT) As the looming climate crisis is becoming directly
+      apparent to most people, there is an increasing focus on how our buildings
+      affect nature. This raises the question of whether it is better to demolish
       the existing buildings and replace them with new low-energy buildings or gently
-      insulate the old buildings.\nOf course, they will have a higher energy consumption
-      for heating, which is increasingly covered by renewable energy, but\r                 
-      on the other hand they have already strained nature during construction perhaps\r                              
-      many years ago. Lifespan is therefore a very important parameter for assessing\r                            
-      the overall environmental impact. Restoration architects are used to researching\r                                                    
-      existing buildings to find out when they were built and what alterations they\r                                                    
-      have undergone in the period up to now. "
+      insulate the old buildings. Of course, they will have a higher energy consumption
+      for heating, which is increasingly covered by renewable energy, but on the
+      other hand they have already strained nature during construction perhaps many
+      years ago. Lifespan is therefore a very important parameter for assessing the
+      overall environmental impact. Restoration architects are used to researching
+      existing buildings to find out when they were built and what alterations they
+      have undergone in the period up to now.
     m_Metadata:
       m_Items: []
   - m_Id: 329682309718016
@@ -82,7 +82,7 @@ MonoBehaviour:
       m_Items:
       - id: 0
   - m_Id: 331381690703872
-    m_Localized: Lifetime of the entire building
+    m_Localized: Lifetime of building
     m_Metadata:
       m_Items: []
   - m_Id: 332744935972864
@@ -106,7 +106,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 359028562960384
-    m_Localized: 'Lifetime of the building elements based on '
+    m_Localized: Lifetime of Building Elements
     m_Metadata:
       m_Items: []
   - m_Id: 359666797617152
@@ -139,6 +139,46 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 402874348969984
     m_Localized: Option B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098289545322496
+    m_Localized: 'This is Placeholder text detailing information about the data in
+      the chart. This is Placeholder text detailing information about the data in
+      the chart. This is Placeholder text detailing information about the data in
+      the chart. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1110486849789952
+    m_Localized: Restored as listed but with extra inner wall insulation of 100/150/200
+      or300 mm. Because of the problems that are mentioned for scenario 1, some calculations
+      must be made with a thicker wall insulation to limit the heat loss - the only
+      thing that will changed in the drawings is the wall thickness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112673441128448
+    m_Localized: Restored as listed and with no internal wall insulation. This is
+      the scenario that has already been calculated - it turns out that it has a
+      substantial heat loss primarily due to the fact there is no external insulation.
+      On the other hand, no insulation means that the proportions of the rooms are
+      largely maintained and only little precious living space is lost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113881388097536
+    m_Localized: Renovated with modern materials. This is a scenario that has already
+      been calculated - here it should be noted that it is provided with 300 mm internal
+      wall insulation - and since it is with inorganic Rockwool, an additional 50
+      mm air gaps must be added facing the existing wall. The effective living space
+      is therefore significant reduced.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115594979385344
+    m_Localized: The existing house is demolished, a new is built following the BR20
+      legislation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1116695204044800
+    m_Localized: The existing house is demolished, a new is built after rules for
+      sustainable construction.
     m_Metadata:
       m_Items: []
   references:

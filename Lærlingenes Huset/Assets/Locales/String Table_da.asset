@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 424634851328
-    m_Localized: /Livscyklusanalyse
+    m_Localized: Livscyklusanalyse
     m_Metadata:
       m_Items: []
   - m_Id: 1839340036096
@@ -78,7 +78,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 331381690703872
-    m_Localized: "\rLevetid for hele bygningen"
+    m_Localized: "\rbygningens levetid"
     m_Metadata:
       m_Items: []
   - m_Id: 332744935972864
@@ -102,7 +102,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 359028562960384
-    m_Localized: "\rBygningselementernes levetid baseret p\xE5"
+    m_Localized: 'Levetid for bygningselementer
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 359666797617152
@@ -135,6 +137,49 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 402874348969984
     m_Localized: Dansk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098289545322496
+    m_Localized: Dette er pladsholdertekst, der beskriver oplysninger om dataene
+      i diagrammet. Dette er pladsholdertekst med detaljerede oplysninger om dataene
+      i diagrammet. Dette er pladsholdertekst med detaljerede oplysninger om dataene
+      i diagrammet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1110486849789952
+    m_Localized: "Restaureret som angivet, men med ekstra indvendig v\xE6gisolering
+      p\xE5 100/150/200 eller 300 mm. P\xE5 grund af de problemer, der er n\xE6vnt
+      i scenario 1, skal der foretages nogle beregninger med en tykkere v\xE6gisolering
+      for at begr\xE6nse varmetabet - det eneste, der vil \xE6ndre sig i tegningerne,
+      er v\xE6gtykkelsen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112673441128448
+    m_Localized: "Gendannet som angivet og uden indvendig v\xE6gisolering. Dette
+      er det scenario, der allerede er beregnet - det viser sig, at det har et betydeligt
+      varmetab prim\xE6rt p\xE5 grund af, at der ikke er nogen udvendig isolering.
+      P\xE5 den anden side betyder ingen isolering, at rummets proportioner stort
+      set opretholdes, og kun lidt v\xE6rdifuldt boligareal g\xE5r tabt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113881388097536
+    m_Localized: "Renoveret med moderne materialer. Dette er et scenario, der allerede
+      er beregnet - her skal det bem\xE6rkes, at det er forsynet med 300 mm indvendig
+      v\xE6gisolering - og da det er med uorganisk Rockwool, skal der tilf\xF8jes
+      yderligere 50 mm luftspalter mod den eksisterende v\xE6g. Det effektive boligareal
+      reduceres derfor betydeligt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115594979385344
+    m_Localized: '
+
+      Det eksisterende hus rives ned, et nyt bygges efter BR20
+      -lovgivningen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1116695204044800
+    m_Localized: "\rDet eksisterende hus rives, et nyt bygges efter regler for b\xE6redygtigt
+      byggeri."
     m_Metadata:
       m_Items: []
   references:

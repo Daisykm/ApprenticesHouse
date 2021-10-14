@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 577930203eab9604db3fe741fa417902
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neue Haas Grotesk Text Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3306b41ede29944fab4df5afb8d4f59, type: 3}
+  - {fileID: 12800000, guid: 3186593cb99b7954e962ab13facc5a5a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

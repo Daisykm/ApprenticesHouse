@@ -123,6 +123,30 @@ MonoBehaviour:
     m_Key: 000_Front_six house/UI/Canvas/Language selector 1
     m_Metadata:
       m_Items: []
+  - m_Id: 1098289545322496
+    m_Key: 'chart info '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1110486849789952
+    m_Key: S1b_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112673441128448
+    m_Key: S1c_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113881388097536
+    m_Key: S2 info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1115594979385344
+    m_Key: S3 info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1116695204044800
+    m_Key: S4 info
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
