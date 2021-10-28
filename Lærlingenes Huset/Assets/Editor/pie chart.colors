@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: pie chart
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: roof
+    m_Color: {r: 0.8745099, g: 0.6117647, b: 0.18431373, a: 1}
+  - m_Name: gazebo
+    m_Color: {r: 0.627451, g: 0.121568635, b: 0.0627451, a: 1}
+  - m_Name: inner elements
+    m_Color: {r: 0.6117647, g: 0.23137257, b: 0.2509804, a: 1}
+  - m_Name: interior doors
+    m_Color: {r: 0.8431373, g: 0.43137258, b: 0.14117648, a: 1}
+  - m_Name: exterior walls
+    m_Color: {r: 0.3372549, g: 0.3803922, b: 0.3019608, a: 1}
+  - m_Name: floor
+    m_Color: {r: 0.4431373, g: 0.49411768, b: 0.39607847, a: 1}
+  - m_Name: window
+    m_Color: {r: 0.227451, g: 0.32156864, b: 0.48627454, a: 1}
+  - m_Name: beams
+    m_Color: {r: 0.3372549, g: 0.49411768, b: 0.5568628, a: 1}
+  - m_Name: ceiling
+    m_Color: {r: 0.5019608, g: 0.5803922, b: 0.65882355, a: 1}
+  - m_Name: exterior doors
+    m_Color: {r: 0.28627452, g: 0.31764707, b: 0.28627452, a: 1}
+  - m_Name: foundation
+    m_Color: {r: 0.75294125, g: 0.6784314, b: 0.6784314, a: 1}
+  - m_Name: scenario not selected
+    m_Color: {r: 0.8196079, g: 0.79215693, b: 0.79215693, a: 1}
