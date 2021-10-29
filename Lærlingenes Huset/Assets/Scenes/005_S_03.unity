@@ -23919,9 +23919,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.97, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -239.6946, y: 261.46887}
+  m_AnchoredPosition: {x: -240.66714, y: 261.4794}
   m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.45604196, y: 1.081042}
+  m_Pivot: {x: 0.45521498, y: 1.0810654}
 --- !u!114 &778987924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27625,7 +27625,7 @@ GameObject:
   - component: {fileID: 907127716}
   - component: {fileID: 907127718}
   m_Layer: 5
-  m_Name: S1_info
+  m_Name: S3_info
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27670,13 +27670,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Restored as listed and with 75 mm internal wall insulation. It turns out
-    that it has a substantial heat loss primarily due to the fact that it is only
-    re-insulated with 75 mm inside on exterior walls. On the other hand, the thin
-    post-insulation means that the proportions of the rooms are largely maintained
-    and only little precious living space is lost.
-
-'
+  m_text: Construction of a new brick house. This is not part of the calculations
+    of this project but it shown as a comparison to the overall emissions of the
+    other scenarios.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e4c3311fdd52a3b49bfa258c10db27ce, type: 2}
   m_sharedMaterial: {fileID: -7466633070323638870, guid: e4c3311fdd52a3b49bfa258c10db27ce, type: 2}
@@ -36663,7 +36659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.627451, g: 0.121568635, b: 0.0627451, a: 1}
+  m_Color: {r: 0.8207547, g: 0.79288, b: 0.79288, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -48625,7 +48621,7 @@ GameObject:
   - component: {fileID: 1636126052}
   - component: {fileID: 1636126054}
   m_Layer: 5
-  m_Name: S1_title
+  m_Name: S3_title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48670,7 +48666,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scenario 1
+  m_text: Scenario 3
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e0fe87ecc351fa4eb412b323dc86744, type: 2}
   m_sharedMaterial: {fileID: -7325246730472758168, guid: 2e0fe87ecc351fa4eb412b323dc86744, type: 2}
@@ -48763,7 +48759,7 @@ MonoBehaviour:
     m_TableReference:
       m_TableCollectionName: GUID:d064754514aa38b4c9c46af00c0e49c7
     m_TableEntryReference:
-      m_KeyId: 1839340036096
+      m_KeyId: 363404824256512
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -55021,7 +55017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8207547, g: 0.79288, b: 0.79288, a: 1}
+  m_Color: {r: 0.627451, g: 0.10980393, b: 0.04705883, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
